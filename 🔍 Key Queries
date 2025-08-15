@@ -1,0 +1,12 @@
+Q1. Sessions & total kWh by station
+Q2. Revenue by station
+Q3. Sessions by city
+Q4. Avg charging time (minutes) by station
+Q5. Sessions by charger type (AC/DC)
+Q6. Peak hour overall
+Q7. Daily kWh & revenue
+Q8. Avg kWh per session by charger type
+Q9. Top station per day (revenue leader)
+Q10. City × hour (busiest hour by city)
+Q11. Simple utilization proxy
+Q12. Revenue per kWh (effective yield)
